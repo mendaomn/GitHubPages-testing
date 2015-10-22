@@ -1,0 +1,19 @@
+{
+  "name": "githubpages-testing",
+  "version": "1.0.0",
+  "description": "Testing ghpages as prototyping environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mendaomn/GitHubPages-testing.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mendaomn/GitHubPages-testing/issues"
+  },
+  "homepage": "https://github.com/mendaomn/GitHubPages-testing#readme"
+}
